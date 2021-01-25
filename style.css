@@ -1,0 +1,9 @@
+body {
+  background-color: gray;
+  
+}
+
+.navbar {
+  width: min-content;
+  color: teal
+}
